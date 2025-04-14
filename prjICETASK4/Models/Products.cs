@@ -8,7 +8,7 @@ namespace prjICETASK4.Models
         public int ProductID { get; set; }
         [Required]
         [StringLength(250)]
-        public string ProductName { get; set; }
+        public string? ProductName { get; set; }
         [Required]
         public int ProductPrice { get; set; }
         

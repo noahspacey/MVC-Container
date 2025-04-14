@@ -8,15 +8,17 @@ namespace prjICETASK4
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(Environment.GetEnvironmentVariable("DefaultConnection"));
+            });
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
-            {
-                options.UseSqlServer(Environment.GetEnvironmentVariable("DbServer"));
-            });
+            
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {

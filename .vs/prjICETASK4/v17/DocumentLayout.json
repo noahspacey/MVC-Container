@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\data\\config\\productsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\prjicetask4\\prjicetask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|c:\\users\\lab_services_student\\source\\repos\\mvc-container\\prjicetask4\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C5646F-892E-46B4-9AE4-57FF05BBE192}|prjICETASK4\\prjICETASK4.csproj|solutionrelative:prjicetask4\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,79 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "prjICETASK4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "prjICETASK4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T07:00:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "prjICETASK4\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "prjICETASK4\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:57:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "prjICETASK4\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "prjICETASK4\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T06:56:45.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Program.cs",
               "RelativeDocumentMoniker": "prjICETASK4\\Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Program.cs",
               "RelativeToolTip": "prjICETASK4\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T08:17:37.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "prjICETASK4\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "prjICETASK4\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T08:07:25.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "prjICETASK4\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "prjICETASK4\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T08:04:46.28Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\appsettings.json",
               "RelativeDocumentMoniker": "prjICETASK4\\appsettings.json",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\appsettings.json",
               "RelativeToolTip": "prjICETASK4\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-10T07:52:19.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductsConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
-              "RelativeDocumentMoniker": "prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
-              "RelativeToolTip": "prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:36:51.272Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Models\\Products.cs",
-              "RelativeDocumentMoniker": "prjICETASK4\\Models\\Products.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\prjICETASK4\\prjICETASK4\\Models\\Products.cs",
-              "RelativeToolTip": "prjICETASK4\\Models\\Products.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Title": "ProductsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
+              "RelativeDocumentMoniker": "prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MVC-Container\\prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
+              "RelativeToolTip": "prjICETASK4\\Data\\Config\\ProductsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T07:34:33.351Z",
+              "WhenOpened": "2025-04-10T07:36:51.272Z",
               "EditorCaption": ""
             }
           ]
